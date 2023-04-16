@@ -4,42 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="101a0a03-462b-4101-9726-3b68160ca523" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/AuthServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/constants/EndPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/dto/request/DoLoginRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/dto/request/RegisterRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/dto/request/UserProfileSaveRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/exception/AuthServiceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/exception/EErrorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/exception/ErrorMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/mapper/IAuthMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/repository/IAuthRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/repository/entity/Auth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/repository/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/repository/enums/ERole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/repository/enums/EStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/service/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/utility/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/utility/ServiceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/java/com/bilgeadam/utility/TokenManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuthMicroService/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependencies.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="101a0a03-462b-4101-9726-3b68160ca523" name="Changes" comment="Management System">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,11 +70,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681471765519</updated>
-      <workItem from="1681471766871" duration="6395000" />
+      <workItem from="1681471766871" duration="7744000" />
     </task>
+    <task id="LOCAL-00001" summary="Management System">
+      <created>1681478921987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681478921987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Management System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Management System" />
   </component>
 </project>
